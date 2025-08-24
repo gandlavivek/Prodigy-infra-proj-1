@@ -1,2 +1,2 @@
-# Prodigy-infra-proj-1
+# Prodigy-01.html
 prodigy infra project-1
